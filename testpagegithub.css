@@ -1,0 +1,43 @@
+div {
+	border: 1px solid black;
+	border-radius: 8px;	
+    background: rgb(180,193,228); 
+    margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+}
+section {
+	border: 1px solid black;
+	border-radius: 8px;
+    margin: 20px;
+	padding-bottom: 400px;
+    background: rgb(199,202,209); 
+}
+h1 {
+	
+	font-style: italic;
+	text-align: center;
+	color: white;
+    padding: 0px; 
+	background: rgb(199,202,209);
+}
+h1.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+	padding: 8px;
+	transition: all 0.4s ease-in-out;
+}
+
+.reactivite p:hover {
+	background-color: #ff80b0;
+}
+
+i {
+	color: white;
+}
+	
